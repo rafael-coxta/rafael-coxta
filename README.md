@@ -3,9 +3,7 @@
 **Jr. FullStack Analyst/Developer**
 
 Hi guys, I'm a technology professional transitioning into the software industry, currently working as a Junior Test Analyst at Stefanini, providing services for BB Tecnologia e Serviços (Banco do Brasil Group).
-
 I have a strong interest in software quality & development and problem-solving. My academic background in Bioinformatics and computational research has helped me develop analytical thinking, logical reasoning, and programming skills using Python.
-
 Currently focused on growing in Quality Assurance and software development, always seeking continuous learning and new challenges.
 
 WELCOME TO MY PROFILE, it's very nice to meet you all!
