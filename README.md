@@ -1,6 +1,6 @@
 # ☕ Rafael O.C. Savino
 
-**'Jr. FullStack Analyst/Developer'**
+**Jr. FullStack Analyst/Developer**
 
 Hi guys, I'm a technology professional transitioning into the software industry, currently working as a Junior Test Analyst at Stefanini, providing services for BB Tecnologia e Serviços (Banco do Brasil Group).
 
